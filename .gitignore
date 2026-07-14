@@ -1,0 +1,105 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# NuGet
+*.nupkg
+*.snupkg
+.project.assets.json
+.project.nuget.cache
+.nuget/
+packages/
+*.nupkg.metadata
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.vspscc
+*.vsscc
+*.vssscc
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+e**/TestResults/
+**/coverage*
+**/PublishProfiles/
+
+# IIS Express
+/.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Others
+*.dbmdl
+*.cache
+*.log
+*.vsmdi
+*.psess
+*.vsp
+*.linq
+
+# MSBuild
+*.builds
+*.pyproj
+GeneratedAssemblyInfo.cs
+
+# Azure DevOps
+*_i.c
+*_p.c
+*_h.h
+*_i.h
+*/.rptproj.user
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Publish outputs
+*.Publish.xml
+
+# NuGet Packages
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio for Mac
+.vscode/
+*.pidb
+*.userprefs
+
+# Rider local history
+.idea/**/localHistory/
